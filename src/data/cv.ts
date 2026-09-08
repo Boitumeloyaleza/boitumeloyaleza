@@ -12,7 +12,7 @@ export const profile = {
   email: "boitumeloyaleza@gmail.com",
   // Add your links here when you have them, e.g. "https://github.com/username"
   github: "",
-  linkedin: "",
+  linkedin: "https://www.linkedin.com/in/boitumelo-yaleza-9bb4ba383",
   objective:
     "I am a well-grounded individual with a strong personal character. I am energetic, eager to learn and I strive to achieve to the best of my abilities. I want to enhance my skills in a dynamic and reputable organisation amongst talented professionals, with a strong desire to learn, excel and find fulfilment.",
   about: [
