@@ -151,7 +151,7 @@ function Portfolio() {
                 <MapPin className="h-3.5 w-3.5 text-accent" /> {profile.location}
               </p>
               <h1 className="font-display text-4xl font-semibold leading-[1.05] tracking-tight text-foreground sm:text-6xl">
-                {profile.name}
+                Hi, I'm <span className="text-accent">Boitumelo Yaleza</span>. I build digital experiences.
               </h1>
               <p className="mt-4 text-xl font-medium text-accent sm:text-2xl">{profile.title}</p>
               <p className="mt-6 max-w-xl text-base leading-relaxed text-muted-foreground sm:text-lg">
